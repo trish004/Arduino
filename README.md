@@ -1,4 +1,5 @@
-The LED Cha-Cha: A Dance of Lights
+**The LED Cha-Cha: A Dance of Lights**
+
 Greetings, illustrious maker! Step into the spotlight of this repository, where LEDs pirouette across pins 2 through 13 like a troupe of tiny, glowing ballerinas.
 This Arduino sketch is a choreographed spectacle of illumination—left to right, right to left, with a dramatic blackout between each move. 
 It’s less a circuit and more a performance, and you’re the director holding the baton (or, well, the USB cable). Prepare for a show that’s equal parts mesmerizing and “why didn’t I think of that?”
